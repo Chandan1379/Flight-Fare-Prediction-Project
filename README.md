@@ -25,8 +25,8 @@ This project uses machine learning to predict flight prices based on features li
 
 # 📈 Results
 
-- **Best Model**: Random Forest Regressor  
-- **R² Score**: ~0.82  
+- **Best Model**: Gradient Boosting Regressor  
+- **Accuracy (R² Score)**: 0.84
 - Found that total stops, duration, and airline have major impact on fare predictions.
 
 ---
